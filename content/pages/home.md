@@ -27,7 +27,7 @@ blocks:
       - icon:
           color: red
           style: float
-          name: code
+          name: user
         title: Amazing Feature
         text: >-
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
